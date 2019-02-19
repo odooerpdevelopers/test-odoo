@@ -1,2 +1,2 @@
 # test-odoo
-Test Odoo
+Test Odoo modules
